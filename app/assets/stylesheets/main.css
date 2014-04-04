@@ -2,3 +2,33 @@ body {
     background-color: #202020;
     color: #ccc
 }
+
+a {
+    color: #a75;
+    font-size: 1.6em;
+}
+
+.bar {
+    background-color: pink;
+    height: 20px;
+}
+
+pre {
+    color: pink;
+    width: 25%;
+    display: inline;
+    float: left;
+}
+
+.scale {
+    width: 100%;
+    display: inline-block;
+}
+
+#break-bar {
+    width: 34%;
+}
+
+#work-bar {
+    width: 76.7%;
+}
