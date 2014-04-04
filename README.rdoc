@@ -1,28 +1,10 @@
-== README
+Looking at screens all day can be bad for your eyes.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This website reminds you via sounds and graphs to follow the 202020 rule.
 
-Things you may want to cover:
+202020 rule: every 20 mins of looking at a screen, look 20ft away for 20sec.
+Addionally, blink* a lot and maybe close eyes a bit.
 
-* Ruby version
+Can also help clear mind, and keep track of how much time is passing.
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+IIRC, People blink 14 times a min about, but less than 10 while reading or screen watching.
