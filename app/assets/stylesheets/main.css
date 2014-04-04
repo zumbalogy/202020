@@ -6,6 +6,7 @@ body {
 a {
     color: #a75;
     font-size: 1.6em;
+    text-decoration: none;
 }
 
 .bar {
@@ -26,7 +27,7 @@ pre {
 }
 
 #break-bar {
-    width: 34%;
+    width: 0%;
 }
 
 #work-bar {
