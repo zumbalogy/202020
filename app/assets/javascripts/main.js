@@ -10,11 +10,11 @@ function tick(){
         var break_count = count % 1200
         var break_width = 100 - ((break_count / 20) * 100)
         $('#break-bar').width("" + break_width + '%')
-        $('#break-words').text('Break Over: ' + (20 - break_count) + 's')
+        $('#break-words').text('Break Timer: ' + (20 - break_count) + 's')
         if (count > 1220) {
             count = 0
             break_count = 0
-            $('#break-words').text('Break Over: ')
+            $('#break-words').text('Break Timer: ')
         }
     } else {
         var width = 100 - ((count / 1200) * 100)
