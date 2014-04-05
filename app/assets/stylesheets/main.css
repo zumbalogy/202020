@@ -1,6 +1,11 @@
 body {
     background-color: #202020;
-    color: #ccc
+    color: #ccc;
+    font-family: sans;
+}
+
+p {
+    font-family: mono;
 }
 
 a {
